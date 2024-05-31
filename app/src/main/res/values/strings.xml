@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CuteCalcie</string>
+    <string name="plus">+</string>
+    <string name="subtract">-</string>
+    <string name="multiply">×</string>
+    <string name="divide">÷</string>
+    <string name="enter_second_number">Enter second number</string>
+    <string name="enter_first_number">Enter first number</string>
+</resources>
